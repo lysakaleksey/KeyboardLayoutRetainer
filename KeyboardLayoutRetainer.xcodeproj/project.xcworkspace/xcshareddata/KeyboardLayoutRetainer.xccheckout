@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1B04F803-4282-4150-82D0-328D90093855</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KeyboardLayoutRetainer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>A2C33AC8-D259-44F9-BFC5-D66DF091B618</key>
+		<string>https://lysakaleksey.dnsdynamic.net:8443/svn/development</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>XCODE/KeyboardLayoutRetainer/trunk/KeyboardLayoutRetainer.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>A2C33AC8-D259-44F9-BFC5-D66DF091B618</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>A2C33AC8-D259-44F9-BFC5-D66DF091B618</key>
+		<string>https://lysakaleksey.dnsdynamic.net:8443/svn/development</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://lysakaleksey.dnsdynamic.net:8443/svn/development/XCODE/KeyboardLayoutRetainer/trunk/KeyboardLayoutRetainer.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>A2C33AC8-D259-44F9-BFC5-D66DF091B618</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A2C33AC8-D259-44F9-BFC5-D66DF091B618</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HOME</string>
+		</dict>
+	</array>
+</dict>
+</plist>
