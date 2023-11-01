@@ -107,7 +107,7 @@
         // Change the input source layout if found
         if (targetInputSourceName == nil) {
             // Set the default input source
-            targetInputSourceName = @"U.S.";
+            targetInputSourceName = @"ABC";
 #if DEBUG
             NSLog(@"applicationActivated => no retained. Using default %@", targetInputSourceName);
 #endif
